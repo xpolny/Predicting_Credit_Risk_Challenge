@@ -1,1 +1,1 @@
-# Predicting_Credit_Risk_Challenge
+# Predicting Credit Risk Challenge
