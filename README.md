@@ -1,1 +1,1 @@
-# Predicting Credit Risk Challenge
+# Predicting Credit Risk
